@@ -1,0 +1,22 @@
+﻿<Window x:Class="DZ7_NickPustovoy_Var4_IVT_21B.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DZ7_NickPustovoy_Var4_IVT_21B"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image x:Name="green" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="286,242,0,0" Source="green.png" MouseDown="red_MouseDown" MouseUp="red_MouseUp"/>
+        <Image x:Name="red" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="286,142,0,0" Source="red.png" MouseDown="red_MouseDown" MouseUp="red_MouseUp"/>
+        <Image x:Name="yellow" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="386,142,0,0" Source="yellow.png" MouseDown="red_MouseDown" MouseUp="red_MouseUp"/>
+        <Image x:Name="blue" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="386,242,0,0" Source="blue.png" MouseUp="red_MouseUp" MouseDown="red_MouseDown"/>
+        <Image x:Name="start" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="336,191,0,0" Source="play.png" MouseUp="start_MouseUp"/>
+        <Label x:Name="Lb" Content="Saymon says" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="336,79,0,0" Width="100" Height="58"/>
+        <Label Content="Набрано очков:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="530,79,0,0" Width="123"/>
+        <Label x:Name="points" Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="658,79,0,0" Width="65"/>
+        <Label Content="Max кол-во очков:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="530,105,0,0" Width="123"/>
+        <Label x:Name="mxpnt" Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="658,105,0,0" Width="65"/>
+
+    </Grid>
+</Window>

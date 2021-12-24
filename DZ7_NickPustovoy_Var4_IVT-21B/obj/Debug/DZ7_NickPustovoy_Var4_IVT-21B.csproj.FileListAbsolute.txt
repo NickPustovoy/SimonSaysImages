@@ -1,0 +1,15 @@
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\bin\Debug\DZ7_NickPustovoy_Var4_IVT-21B.exe.config
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\bin\Debug\DZ7_NickPustovoy_Var4_IVT-21B.exe
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\bin\Debug\DZ7_NickPustovoy_Var4_IVT-21B.pdb
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\DZ7_NickPustovoy_Var4_IVT-21B.csproj.AssemblyReference.cache
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\MainWindow.g.cs
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\App.g.cs
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\DZ7_NickPustovoy_Var4_IVT-21B_MarkupCompile.cache
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\DZ7_NickPustovoy_Var4_IVT-21B_MarkupCompile.lref
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\MainWindow.baml
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\DZ7_NickPustovoy_Var4_IVT-21B.g.resources
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\DZ7_NickPustovoy_Var4_IVT_21B.Properties.Resources.resources
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\DZ7_NickPustovoy_Var4_IVT-21B.csproj.GenerateResource.cache
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\DZ7_NickPustovoy_Var4_IVT-21B.csproj.CoreCompileInputs.cache
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\DZ7_NickPustovoy_Var4_IVT-21B.exe
+C:\Users\Кальян\Documents\GitHub\SimonSaysImages\DZ7_NickPustovoy_Var4_IVT-21B\obj\Debug\DZ7_NickPustovoy_Var4_IVT-21B.pdb
